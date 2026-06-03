@@ -72,4 +72,6 @@ Aktuell geschieht dies häufig, indem demokratische, menschenrechtliche oder ant
 
 Mit sachdienlichen Hinweisen, Empfehlungen für weitere Links und Ressourcen, sowie Rückmeldungen wenden Sie sich gerne per E-Mail an wissenspool-demokratie //a/t// posteo.net 
 
-Diese Website enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Daher können wir für diese fremden Inhalte keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber verantwortlich.
+Diese Website ist ein zivilgesellschaftliches Informations- und Bildungsangebot.
+Für die Inhalte externer Links sind ausschließlich deren Betreiber:innen verantwortlich. Zum Zeitpunkt der Verlinkung wurden diese sorgfältig geprüft; eine kontinuierliche inhaltliche Kontrolle erfolgt nicht.
+Inhalte Dritter unterliegen dem Urheberrecht der jeweiligen Rechteinhaber:innen.
