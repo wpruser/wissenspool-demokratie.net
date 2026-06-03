@@ -5,12 +5,18 @@ title: Wissenspool Demokratie
 
 # Wissenspool Demokratie
 
-Eine einfache Linksammlung mit Materialien, Dossiers und Lernangeboten rund um Demokratie, politische Bildung und gesellschaftliche Teilhabe.
+Eine einfache Linksammlung mit Materialien, Leitfäden und Ressourcen zu den aktuellen Gefährdungen unserer Demokratie – und wie man ihnen vorbeugt. 
+
+*Unser erstes Thema ist die Instrumentalisierung des "Neutralitätsgebots". Perspektivisch wird dieses Projekt weitere Themen aufnehmen.*
+
 
 ## Strategische Nutzung des Neutralitätsbegriffs
+
 Einsatz des Neutralitätsbegriffs als politisches Instrument, um bestimmte Positionen zu delegitimieren oder Handlungsspielräume einzuschränken. 
 
-Aktuell geschieht dies häufig, indem demokratische, menschenrechtliche oder antifaschistische Positionierungen als Verstoß gegen ein vermeintliches Neutralitätsgebot dargestellt werden.
+Aktuell geschieht dies häufig, indem demokratische, menschenrechtliche oder antifaschistische Positionierungen in Politik, Verwaltung, Zivilgesellschaft und Wissenschaft als Verstoß gegen ein vermeintliches "Neutralitätsgebot" dargestellt werden.
+
+## Problemanalyse und Beispiele 
 
 - [Hintergrund](https://verfassungsblog.de/weaponized-neutrality/)
 
