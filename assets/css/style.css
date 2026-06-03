@@ -34,22 +34,40 @@ body {
   padding: clamp(24px, 5vw, 56px);
 }
 
-h1,
-h2 {
+.content h1,
+.content h2,
+.content h3,
+.content h4 {
   line-height: 1.2;
   letter-spacing: 0;
 }
 
-h1 {
+.content h1 {
   margin: 0 0 16px;
+  padding-top: 24px;
+  border-top: 1px solid var(--border);
   font-size: clamp(2rem, 4vw, 3rem);
 }
 
-h2 {
+.content h2 {
   margin: 40px 0 12px;
   padding-top: 24px;
   border-top: 1px solid var(--border);
+  font-size: 1.8rem;
+}
+
+.content h3 {
+  margin: 28px 0 8px;
+  padding-top: 0;
+  border-top: 0;
   font-size: 1.35rem;
+}
+
+.content h4 {
+  margin: 28px 0 8px;
+  padding-top: 0;
+  border-top: 0;
+  font-size: 1.05rem;
 }
 
 p {
