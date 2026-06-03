@@ -15,12 +15,12 @@ Aktuell geschieht dies häufig, indem demokratische, menschenrechtliche oder ant
 
 ### Problemanalyse und Beispiele 
 
-**Hintergrund Neutralität**
+#### Hintergrund Neutralität
 - [Weaponized Neutrality](https://verfassungsblog.de/weaponized-neutrality/)
 - [Neutralitätsgebot:Video](https://media.ccc.de/v/39c3-wer-hat-angst-vor-dem-neutralitatsgebot#t=1841)
 - [Mäßigungsgebot](https://www.bundestag.de/resource/blob/650184/57e48f43ca79df7039003aff9850f8c9/WD-6-045-19-pdf-data.pdf)
 
-**weiterführende Informationen**
+#### weiterführende Informationen
 - [Verwaltung](https://verfassungsblog.de/akten-anfragen-autoritarismus/)
 - [Szenarien](https://www.amadeu-antonio-stiftung.de/szenario-sachsen-anhalt/)
 - [Antiauthoritarian Stack](https://antiauthoritarian.com/de)
@@ -45,12 +45,19 @@ Aktuell geschieht dies häufig, indem demokratische, menschenrechtliche oder ant
 - [Flyer von Verwaltung für Demokratie e.V.](https://vfd.iw-erp.de/api/media/mediafile/proxy/15/Flyer%20VwfD%20Neutralita%CC%88tsgebot.pdf)
 - [Neutralität in der Verwaltung](https://bqn-berlin.de/neutralitaet-verwaltung/)
   
-### Zivilgesellschaft: 
+#### Zivilgesellschaft: 
 - [Weiterdenken](https://weiterdenken.de/sites/default/files/2025-10/nicht_neutral_digital_251028_rz_mq.pdf)
 - [Soziale Organisationen](https://www.der-paritaetische.de/fileadmin/user_upload/Publikationen/doc/druck-aus-den-parlamenten_web.pdf)
 
 #### rechtliche Unterstützung:
 - [Gegenrechtsschutz](https://gegenrechtsschutz.de/)
+
+### Vernetzung: Hilfreiche Initiativen und Einrichtungen
+- [Frag den Staat](https://fragdenstaat.de/)
+- [Verwaltung für Demokratie e.V.](https://verwaltung-fuer-demokratie.de/)
+- [GEW](https://www.gew.de/)
+- [WissDem](https://wissdem.org/)
+
 
 
 
