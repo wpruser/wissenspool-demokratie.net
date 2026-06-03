@@ -7,19 +7,24 @@ title: Wissenspool Demokratie
 
 Eine einfache Linksammlung mit Materialien, Leitfäden und Ressourcen zu den aktuellen Gefährdungen unserer Demokratie – und wie man ihnen vorbeugt. Aktuell geht es hier um die Instrumentalisierung des "Neutralitätsgebots". Perspektivisch wird dieses Projekt weitere Themen aufnehmen.
 
-
 ## Strategische Nutzung des Neutralitätsbegriffs
 
 Der Begriff "Neutralität" wird von populistischen, autoritären und ultra-rechten Kräften zunehmend als politisches Instrument angeeignet, um bestimmte Positionen zu delegitimieren oder Handlungsspielräume in Bildung, Verwaltung, Wissenschaft und Politik einzuschränken. 
 
 Aktuell geschieht dies häufig, indem demokratische, menschenrechtliche oder antifaschistische Positionierungen nicht-politischer Akteure als Verstoß gegen ein vermeintliches "Neutralitätsgebot" dargestellt werden. Dieses Neutralitätsgebot gibt es in der Form nicht. 
 
-
 ### Problemanalyse und Beispiele 
 
-- [Hintergrund](https://verfassungsblog.de/weaponized-neutrality/)
-- [Hintergrund](https://verfassungsblog.de/akten-anfragen-autoritarismus/)
+**Hintergrund Neutralität**
+- [Weaponized Neutrality](https://verfassungsblog.de/weaponized-neutrality/)
+- [Neutralitätsgebot:Video](https://media.ccc.de/v/39c3-wer-hat-angst-vor-dem-neutralitatsgebot#t=1841)
+- [Mäßigungsgebot](https://www.bundestag.de/resource/blob/650184/57e48f43ca79df7039003aff9850f8c9/WD-6-045-19-pdf-data.pdf)
 
+**weiterführende Informationen**
+- [Verwaltung](https://verfassungsblog.de/akten-anfragen-autoritarismus/)
+- [Szenarien](https://www.amadeu-antonio-stiftung.de/szenario-sachsen-anhalt/)
+- [Antiauthoritarian Stack](https://antiauthoritarian.com/de)
+- [Jahrbuch Demokratie Sachse](https://efbi.de/files/efbi/pdfs/Jahrb%C3%BCcher/2025_EFBI_Jahrbuch_OpenAccess.pdf)
 
 ### Handreichungen für Betroffene 
 
@@ -39,14 +44,12 @@ Aktuell geschieht dies häufig, indem demokratische, menschenrechtliche oder ant
 - [Bundesverband MBR](https://bundesverband-mobile-beratung.de/wp-content/uploads/2026/02/2026-Kulturbuero-Sachsen-Das-Neutralitaetsgebot-fuer-Mitarbeitende-von-Verwaltung-und-Behoerden.pdf)
 - [Flyer von Verwaltung für Demokratie e.V.](https://vfd.iw-erp.de/api/media/mediafile/proxy/15/Flyer%20VwfD%20Neutralita%CC%88tsgebot.pdf)
 - [Neutralität in der Verwaltung](https://bqn-berlin.de/neutralitaet-verwaltung/)
+- 
+### Zivilgesellschaft: 
+-[Weiterdenken](https://weiterdenken.de/sites/default/files/2025-10/nicht_neutral_digital_251028_rz_mq.pdf)
 
-
-
-
-  
-
-
-
+#### rechtliche Unterstützung:
+- [Gegenrechtsschutz](https://gegenrechtsschutz.de/)
 
 
 
