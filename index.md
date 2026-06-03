@@ -24,7 +24,7 @@ Aktuell geschieht dies häufig, indem demokratische, menschenrechtliche oder ant
 - [Verwaltung](https://verfassungsblog.de/akten-anfragen-autoritarismus/)
 - [Szenarien](https://www.amadeu-antonio-stiftung.de/szenario-sachsen-anhalt/)
 - [Antiauthoritarian Stack](https://antiauthoritarian.com/de)
-- [Jahrbuch Demokratie Sachse](https://efbi.de/files/efbi/pdfs/Jahrb%C3%BCcher/2025_EFBI_Jahrbuch_OpenAccess.pdf)
+- [Jahrbuch Demokratie Sachsen](https://efbi.de/files/efbi/pdfs/Jahrb%C3%BCcher/2025_EFBI_Jahrbuch_OpenAccess.pdf)
 
 ### Handreichungen für Betroffene 
 
@@ -44,9 +44,10 @@ Aktuell geschieht dies häufig, indem demokratische, menschenrechtliche oder ant
 - [Bundesverband MBR](https://bundesverband-mobile-beratung.de/wp-content/uploads/2026/02/2026-Kulturbuero-Sachsen-Das-Neutralitaetsgebot-fuer-Mitarbeitende-von-Verwaltung-und-Behoerden.pdf)
 - [Flyer von Verwaltung für Demokratie e.V.](https://vfd.iw-erp.de/api/media/mediafile/proxy/15/Flyer%20VwfD%20Neutralita%CC%88tsgebot.pdf)
 - [Neutralität in der Verwaltung](https://bqn-berlin.de/neutralitaet-verwaltung/)
-- 
+  
 ### Zivilgesellschaft: 
--[Weiterdenken](https://weiterdenken.de/sites/default/files/2025-10/nicht_neutral_digital_251028_rz_mq.pdf)
+- [Weiterdenken](https://weiterdenken.de/sites/default/files/2025-10/nicht_neutral_digital_251028_rz_mq.pdf)
+- [Soziale Organisationen](https://www.der-paritaetische.de/fileadmin/user_upload/Publikationen/doc/druck-aus-den-parlamenten_web.pdf)
 
 #### rechtliche Unterstützung:
 - [Gegenrechtsschutz](https://gegenrechtsschutz.de/)
