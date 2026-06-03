@@ -27,6 +27,9 @@ Aktuell geschieht dies häufig, indem demokratische, menschenrechtliche oder ant
 #### Fälle und Beispiele
 
 - [taz: Abmahnung gegen einen Lehrer](https://taz.de/Neutralitaetsdebatte-in-der-Schule/!6179783/) – Ausführlicher Bericht zu einem Fall aus Sachsen-Anhalt
+- [Stadt Nürnberg/Allianz gegen Rechtsextremismus](https://www.zivilgesellschaft-ist-gemeinnuetzig.de/wichtiges-urteil-des-bverwg-leipzig-zum-neutralitaetsgebot/)
+- [Neutralität Politik: Malu Dreyer](https://www.tagesschau.de/inland/innenpolitik/afd-dreyer-verfassungsgericht-100.html)
+- [Schule: Praktikum](https://www.deutschlandfunkkultur.de/schule-neutralitaet-meinungsfreiheit-afd-100.html)
 
 
 ### Handreichungen für betroffene Berufsgruppen
@@ -36,8 +39,9 @@ Aktuell geschieht dies häufig, indem demokratische, menschenrechtliche oder ant
 - [Siegburger Konsens](https://siegburg.de/familie-bildung-soziales/schulen-bildung/siegburger-konsens/) –  Initiative von Lehrer:innen aus Siegburg in Erweiterung des sog. Beutelsbacher Konsenses
 - [Erlass aus Sachsen-Anhalt](https://www.landesrecht.sachsen-anhalt.de/bsst/document/VVST-VVST000014602) – offizieller Erlass zu Neutralität in der Schule
 
-#### Außerschulische politische Bildung:
+#### Außerschulische Jugendarbeit:
 - [Deutscher Bundesjugendring](https://www.dbjr.de/fileadmin/PDFtmp/Handreichung-Neutralitaet-DBJR-AdB-2024.pdf)
+- [Rechtsgutachten](https://www.amadeu-antonio-stiftung.de/wp-content/uploads/2024/08/2024-07-25-Rechtsgutachten-zum-Neutralitaetsgebot-Prof.-Dr.-Hufen-Endfassung-signiert.pdf)
 
 #### Wissenschaft:
 - [Veröffentlichung des Verbundprojekts GERDEA](https://www.projekt-gerdea.de/fileadmin/dissens_home/content/documents/GERDEA/GERDEA_BMB_2025_Handreichung_Umgang_mit_rechten_Anfeindungen_gegen_die_Wissenschaft.pdf)
