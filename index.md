@@ -13,7 +13,7 @@ Der Begriff "Neutralität" wird von populistischen, autoritären und ultra-recht
 
 Aktuell geschieht dies häufig, indem demokratische, menschenrechtliche oder antifaschistische Positionierungen nicht-politischer Akteure als Verstoß gegen ein vermeintliches "Neutralitätsgebot" dargestellt werden. Dieses Neutralitätsgebot gibt es in der Form nicht. 
 
-### Hintergrund und Problemanalyse 
+### Problembeschreibung 
 
 - [Weaponized Neutrality](https://verfassungsblog.de/weaponized-neutrality/)
 - [Vortrag (Video) zum Neutralitätsgebot](https://media.ccc.de/v/39c3-wer-hat-angst-vor-dem-neutralitatsgebot#t=1841)
