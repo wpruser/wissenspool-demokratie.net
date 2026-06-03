@@ -16,27 +16,28 @@ Aktuell geschieht dies häufig, indem demokratische, menschenrechtliche oder ant
 ### Problembeschreibung 
 
 - [Weaponized Neutrality](https://verfassungsblog.de/weaponized-neutrality/)
-- [Vortrag (Video) zum Neutralitätsgebot](https://media.ccc.de/v/39c3-wer-hat-angst-vor-dem-neutralitatsgebot#t=1841)
+- [Vortrag (Video) "Wer hat Angst vor dem Neutralitätsgebot?" von Hannah Vos und Vivian Kube](https://media.ccc.de/v/39c3-wer-hat-angst-vor-dem-neutralitatsgebot#t=1841)
 - [Mäßigungsgebot](https://www.bundestag.de/resource/blob/650184/57e48f43ca79df7039003aff9850f8c9/WD-6-045-19-pdf-data.pdf)
 
-- [Verwaltung](https://verfassungsblog.de/akten-anfragen-autoritarismus/)
+- [Problembeschreibung mit Fokus auf Verwaltung](https://verfassungsblog.de/akten-anfragen-autoritarismus/) – Instrumentalisierung von Neutralitätsforderungen und des parlamentarischen Anfragerechts. 
 - [Szenarien](https://www.amadeu-antonio-stiftung.de/szenario-sachsen-anhalt/)
 - [Antiauthoritarian Stack](https://antiauthoritarian.com/de)
 - [Jahrbuch Demokratie Sachsen](https://efbi.de/files/efbi/pdfs/Jahrb%C3%BCcher/2025_EFBI_Jahrbuch_OpenAccess.pdf)
 
 #### Fälle und Beispiele
 
-- [taz: Abmahnung gegen einen Lehrer](https://taz.de/Neutralitaetsdebatte-in-der-Schule/!6179783/) – Ausführlicher Bericht zu einem Fall aus Sachsen-Anhalt
-- [Stadt Nürnberg/Allianz gegen Rechtsextremismus](https://www.zivilgesellschaft-ist-gemeinnuetzig.de/wichtiges-urteil-des-bverwg-leipzig-zum-neutralitaetsgebot/) - Bericht zu Urteilen zur Mitgliedschaft der Stadt Nürnberg im Aktionsbündnis
-- [Neutralität Politik: Malu Dreyer](https://www.tagesschau.de/inland/innenpolitik/afd-dreyer-verfassungsgericht-100.html) - Demo-Aufruf durch Politikerin
-- [Schule: Praktikum](https://www.deutschlandfunkkultur.de/schule-neutralitaet-meinungsfreiheit-afd-100.html) - Verbot eines Schülerpraktikums bei AfD verstößt nicht gegen das Neutralitätsprinzip
+- [taz: Abmahnung eines Lehrers](https://taz.de/Neutralitaetsdebatte-in-der-Schule/!6179783/) – Ausführlicher Bericht zu einem Fall aus Sachsen-Anhalt
+- [Stadt Nürnberg / Allianz gegen Rechtsextremismus](https://www.zivilgesellschaft-ist-gemeinnuetzig.de/wichtiges-urteil-des-bverwg-leipzig-zum-neutralitaetsgebot/) – Urteil zur Mitgliedschaft der Stadt Nürnberg in der "Allianz gegen Rechtsextremismus" 
+- [Demo-Aufruf durch die rheinland-pfälzische Ministerpräsidentin Malu Dreyer](https://www.tagesschau.de/inland/innenpolitik/afd-dreyer-verfassungsgericht-100.html) – Dreyer hatte 2024 zur Demo gegen die AfD aufgerufen. Die Partei klagte. Das Bundesverfassungsgericht wies die Beschwerde ab.
+- [Schülerpraktikum bei der AfD](https://www.deutschlandfunkkultur.de/schule-neutralitaet-meinungsfreiheit-afd-100.html) – Verbot eines Schülerpraktikums bei AfD verstößt nicht gegen das Neutralitätsprinzip. 
 
 ### Handreichungen für betroffene Berufsgruppen
 
 #### Schule und Bildung:
-- [GEW](https://www.gew.de/themen/schule-zeigt-haltung/mythos-neutralitaet) – Hinweise zur Neutralität von Lehrer:innen
+- [GEW](https://www.gew.de/themen/schule-zeigt-haltung/mythos-neutralitaet) – Praktische Hinweise für Lehrkräfte zum Thema Neutralität 
 - [Siegburger Konsens](https://siegburg.de/familie-bildung-soziales/schulen-bildung/siegburger-konsens/) –  Initiative von Lehrer:innen aus Siegburg in Erweiterung des sog. Beutelsbacher Konsenses
-- [Erlass aus Sachsen-Anhalt](https://www.landesrecht.sachsen-anhalt.de/bsst/document/VVST-VVST000014602) – offizieller Erlass zu Neutralität in der Schule
+- [Erlass des Ministeriums für Bildung in Sachsen-Anhalt](https://www.landesrecht.sachsen-anhalt.de/bsst/document/VVST-VVST000014602) – Dieser Erlass macht Ableitungen aus dem Beutelsbacher Konsens und
+  formuliert explizite Leitlinien für Lehrkräfte zum Umgang mit politischer Neutralitätspflicht und Aufklärung über antidemokratische Kräfte. 
 
 #### Außerschulische Jugendarbeit:
 - [Deutscher Bundesjugendring](https://www.dbjr.de/fileadmin/PDFtmp/Handreichung-Neutralitaet-DBJR-AdB-2024.pdf)
@@ -60,7 +61,9 @@ Aktuell geschieht dies häufig, indem demokratische, menschenrechtliche oder ant
 
 
 
-## Vernetzung: Hilfreiche Initiativen und Einrichtungen
+## Hilfreiche Initiativen und Einrichtungen
+
+Hier sammeln wir Initiativen und Einrichtungen, deren Arbeit wir für die Themen dieser Linksammlung besonders hilfreich finden. Die Nennung bedeutet nicht, dass die genannten Organisationen diese Linksammlung unterstützen oder mitverantworten.
 
 - [Frag den Staat](https://fragdenstaat.de/)
 - [Verwaltung für Demokratie e.V.](https://verwaltung-fuer-demokratie.de/)
