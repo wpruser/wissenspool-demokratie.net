@@ -1,0 +1,9 @@
+title: Wissenspool Demokratie
+description: Eine kuratierte Linksammlung zu Demokratie, Politik, Bildung und Gesellschaft.
+lang: de
+
+markdown: kramdown
+permalink: pretty
+
+exclude:
+  - README.md
