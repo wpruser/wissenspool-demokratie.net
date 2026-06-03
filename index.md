@@ -27,10 +27,9 @@ Aktuell geschieht dies häufig, indem demokratische, menschenrechtliche oder ant
 #### Fälle und Beispiele
 
 - [taz: Abmahnung gegen einen Lehrer](https://taz.de/Neutralitaetsdebatte-in-der-Schule/!6179783/) – Ausführlicher Bericht zu einem Fall aus Sachsen-Anhalt
-- [Stadt Nürnberg/Allianz gegen Rechtsextremismus](https://www.zivilgesellschaft-ist-gemeinnuetzig.de/wichtiges-urteil-des-bverwg-leipzig-zum-neutralitaetsgebot/)
-- [Neutralität Politik: Malu Dreyer](https://www.tagesschau.de/inland/innenpolitik/afd-dreyer-verfassungsgericht-100.html)
-- [Schule: Praktikum](https://www.deutschlandfunkkultur.de/schule-neutralitaet-meinungsfreiheit-afd-100.html)
-
+- [Stadt Nürnberg/Allianz gegen Rechtsextremismus](https://www.zivilgesellschaft-ist-gemeinnuetzig.de/wichtiges-urteil-des-bverwg-leipzig-zum-neutralitaetsgebot/) - Bericht zu Urteilen zur Mitgliedschaft der Stadt Nürnberg im Aktionsbündnis
+- [Neutralität Politik: Malu Dreyer](https://www.tagesschau.de/inland/innenpolitik/afd-dreyer-verfassungsgericht-100.html) - Demo-Aufruf durch Politikerin
+- [Schule: Praktikum](https://www.deutschlandfunkkultur.de/schule-neutralitaet-meinungsfreiheit-afd-100.html) - Verbot eines Schülerpraktikums bei AfD verstößt nicht gegen das Neutralitätsprinzip
 
 ### Handreichungen für betroffene Berufsgruppen
 
