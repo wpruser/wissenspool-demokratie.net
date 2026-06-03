@@ -7,18 +7,12 @@ title: Wissenspool Demokratie
 
 Eine einfache Linksammlung mit Materialien, Dossiers und Lernangeboten rund um Demokratie, politische Bildung und gesellschaftliche Teilhabe.
 
-## Beteiligung und Engagement
-
-- [Mehr Demokratie e.V.](https://www.mehr-demokratie.de/) - Informationen zu Bürgerbeteiligung und direkter Demokratie.
-- [mitmischen.de](https://www.mitmischen.de/) - Jugendportal des Deutschen Bundestages.
-- [Bundesnetzwerk Bürgerschaftliches Engagement](https://www.b-b-e.de/) - Informationen und Impulse zu Engagement und Beteiligung.
-
 ## Strategische Nutzung des Neutralitätsbegriffs
 Einsatz des Neutralitätsbegriffs als politisches Instrument, um bestimmte Positionen zu delegitimieren oder Handlungsspielräume einzuschränken. 
 
 Aktuell geschieht dies häufig, indem demokratische, menschenrechtliche oder antifaschistische Positionierungen als Verstoß gegen ein vermeintliches Neutralitätsgebot dargestellt werden.
 
-- [Hintergrund] (https://verfassungsblog.de/weaponized-neutrality/)
+- [Hintergrund](https://verfassungsblog.de/weaponized-neutrality/)
 
 ### Neutralität: Handreichungen und Hinweise
 **Schule und Bildung:**
@@ -36,6 +30,15 @@ Aktuell geschieht dies häufig, indem demokratische, menschenrechtliche oder ant
 - [Bundesverband MBR](https://bundesverband-mobile-beratung.de/wp-content/uploads/2026/02/2026-Kulturbuero-Sachsen-Das-Neutralitaetsgebot-fuer-Mitarbeitende-von-Verwaltung-und-Behoerden.pdf)
 - [Flyer von Verwaltung für Demokratie e.V.](https://vfd.iw-erp.de/api/media/mediafile/proxy/15/Flyer%20VwfD%20Neutralita%CC%88tsgebot.pdf)
 - [Neutralität in der Verwaltung](https://bqn-berlin.de/neutralitaet-verwaltung/)
+
+ ## Wehrhafte Verwaltung
+ Weisungen oder Entwicklungen können im Arbeitsumfeld gegen demokratische Prinzipien verstoßen.
+
+[Hintergrund](https://verfassungsblog.de/akten-anfragen-autoritarismus/)
+
+### Wehrhafte Verwaltung: Handreichung
+- [Erste-Hilfe Kit Demokratie](https://verwaltung-fuer-demokratie.de/erste-hilfe-kit-demokratie/)
+
 
   
 
