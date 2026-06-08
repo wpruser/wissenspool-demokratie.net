@@ -60,6 +60,10 @@ Aktuell geschieht dies häufig, indem demokratische, menschenrechtliche oder ant
 - [Gegenrechtsschutz](https://gegenrechtsschutz.de/)
 
 
+#### Onlinedatenbank mit Ressourcen 
+
+- Hier gibt es eine noch viel umfassendere [Datenbank mit Ressourcen zum Neutralitätsgebot](https://zusammen-fuer-demokratie.de/wissensdatenbank/?*=Neutralit%C3%A4t)
+
 
 ## Hilfreiche Initiativen und Einrichtungen
 
