@@ -23,13 +23,15 @@ Aktuell geschieht dies häufig, indem demokratische, menschenrechtliche oder ant
 - [Szenarien](https://www.amadeu-antonio-stiftung.de/szenario-sachsen-anhalt/)
 - [Antiauthoritarian Stack](https://antiauthoritarian.com/de)
 - [Jahrbuch Demokratie Sachsen](https://efbi.de/files/efbi/pdfs/Jahrb%C3%BCcher/2025_EFBI_Jahrbuch_OpenAccess.pdf)
+- [Haltung in der Wissenschaft](https://www.jmwiarda.de/blog/2026/06/08/keine-satzung-ersetzt-haltung)
 
 #### Fälle und Beispiele
 
 - [taz: Abmahnung eines Lehrers](https://taz.de/Neutralitaetsdebatte-in-der-Schule/!6179783/) – Ausführlicher Bericht zu einem Fall aus Sachsen-Anhalt
 - [Stadt Nürnberg / Allianz gegen Rechtsextremismus](https://www.zivilgesellschaft-ist-gemeinnuetzig.de/wichtiges-urteil-des-bverwg-leipzig-zum-neutralitaetsgebot/) – Urteil zur Mitgliedschaft der Stadt Nürnberg in der "Allianz gegen Rechtsextremismus" 
 - [Demo-Aufruf durch die rheinland-pfälzische Ministerpräsidentin Malu Dreyer](https://www.tagesschau.de/inland/innenpolitik/afd-dreyer-verfassungsgericht-100.html) – Dreyer hatte 2024 zur Demo gegen die AfD aufgerufen. Die Partei klagte. Das Bundesverfassungsgericht wies die Beschwerde ab.
-- [Schülerpraktikum bei der AfD](https://www.deutschlandfunkkultur.de/schule-neutralitaet-meinungsfreiheit-afd-100.html) – Verbot eines Schülerpraktikums bei AfD verstößt nicht gegen das Neutralitätsprinzip. 
+- [Schülerpraktikum bei der AfD](https://www.deutschlandfunkkultur.de/schule-neutralitaet-meinungsfreiheit-afd-100.html) – Verbot eines Schülerpraktikums bei AfD verstößt nicht gegen das Neutralitätsprinzip.
+- [Vortragsabsagen an der TU Berlin auf Anordnung des Präsidiums](https://taz.de/Antifaschistischer-Kongress-in-Berlin/!6186222/) - nach Druck der AfD untersagt das Präsidium der TU Berlin studentischen Initiativen die Durchführung von Vorträgen m Rahmen eines Kongresses. 
 
 ### Handreichungen für betroffene Berufsgruppen
 
